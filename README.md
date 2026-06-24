@@ -81,7 +81,7 @@ Identified applications consuming the highest amount of system resources.
 
 Displayed active applications and background processes.
 
-![](screenshots/01-task-manager-processes.png)
+![Task Manager Processes](screenshots/01-task-manager-processes.png)
 
 ---
 
@@ -89,7 +89,7 @@ Displayed active applications and background processes.
 
 Reviewed processor utilization and activity.
 
-![](screenshots/02-cpu-performance.png)
+![CPU Performance](screenshots/02-cpu-performance.png)
 
 ---
 
@@ -97,7 +97,7 @@ Reviewed processor utilization and activity.
 
 Monitored RAM usage and available memory.
 
-![](screenshots/03-memory-performance.png)
+![Memory Performance](screenshots/03-memory-performance.png)
 
 ---
 
@@ -105,7 +105,7 @@ Monitored RAM usage and available memory.
 
 Observed disk activity and transfer rates.
 
-![](screenshots/04-disk-performance.png)
+![Disk Performance](screenshots/04-disk-performance.png)
 
 ---
 
@@ -113,42 +113,20 @@ Observed disk activity and transfer rates.
 
 Reviewed applications configured to launch during Windows startup.
 
-![](screenshots/05-startup-apps.png)
+![Startup Applications](screenshots/05-startup-apps.png)
 
 ---
 
 ## 6. Resource Monitor
 
-Performed advanced system performance analysis using Resource Monitor.
+Used Resource Monitor to identify CPU, disk, memory, and network usage.
 
-![](screenshots/06-resource-monitor.png)
+![Resource Monitor](screenshots/06-resource-monitor.png)
 
 ---
 
 ## 7. High Resource Processes
 
-Identified applications consuming the highest CPU and memory resources.
+Identified applications consuming the highest amount of system resources.
 
-![](screenshots/07-high-resource-processes.png)
-
----
-
-# Outcome
-
-The performance review identified several applications consuming significant system resources. Using Task Manager and Resource Monitor, system performance was successfully analyzed and potential optimization opportunities were identified.
-
----
-
-# Resume Skills
-
-- Windows 11 Administration
-- Help Desk Support
-- Windows Troubleshooting
-- Task Manager
-- Resource Monitor
-- CPU Monitoring
-- Memory Analysis
-- Disk Performance Analysis
-- Startup Optimization
-- Performance Diagnostics
-- End-User Support
+![High Resource Processes](screenshots/07-high-resource-processes.png)
