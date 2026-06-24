@@ -88,7 +88,7 @@ Displayed active applications and background processes.
 
 Reviewed processor utilization and activity.
 
-![CPU Performance](screenshots/02-cpu-performance.png.png)
+![CPU Performance](screenshots/02-cpu-performance.png.)
 
 ---
 
@@ -104,7 +104,7 @@ Monitored RAM usage and available memory.
 
 Observed disk activity and transfer rates.
 
-![Memory Performance](screenshots/03-memory-performance.png.png)
+![Disk Performance](screenshots/04-disk-performance.png)
 
 ---
 
