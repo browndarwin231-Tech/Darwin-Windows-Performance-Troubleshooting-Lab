@@ -129,3 +129,23 @@ Used Resource Monitor to identify CPU, disk, memory, and network usage.
 Identified applications consuming the highest amount of system resources.
 
 ![High Resource Processes](screenshots/07-high-resource-processes.png)
+
+# Outcome
+
+The performance review identified several applications consuming significant system resources. Using Task Manager and Resource Monitor, system performance was successfully analyzed and potential optimization opportunities were identified.
+
+---
+
+# Resume Skills
+
+- Windows 11 Administration
+- Help Desk Support
+- Windows Troubleshooting
+- Task Manager
+- Resource Monitor
+- CPU Monitoring
+- Memory Analysis
+- Disk Performance Analysis
+- Startup Optimization
+- Performance Diagnostics
+- End-User Support
