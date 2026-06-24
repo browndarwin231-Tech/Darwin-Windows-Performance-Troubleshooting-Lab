@@ -82,7 +82,6 @@ Identified applications consuming the highest amount of system resources.
 Displayed active applications and background processes.
 
 ![Task Manager Processes](screenshots/01-task-manager-processes.png)
-
 ---
 
 ## 2. CPU Performance
