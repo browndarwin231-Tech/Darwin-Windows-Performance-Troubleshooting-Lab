@@ -88,7 +88,7 @@ Displayed active applications and background processes.
 
 Reviewed processor utilization and activity.
 
-![CPU Performance](screenshots/02-cpu-performance.png.)
+![CPU Performance](screenshots/02-cpu-performance.png)
 
 ---
 
